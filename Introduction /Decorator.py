@@ -20,8 +20,7 @@ def calculate_sum():
 @my_logger	
 def md_i():
     play=print("hii")
-    print(f"is:{play}")
-    play_type =print(type(play))
+
 
 # 4. RUN THE FUNCTIONS
 say_hello()
@@ -33,18 +32,16 @@ md_i()
 
 Output :
 
---- ?? Starting Execution ---
+>> Starting Execution   
 Hello, World!
---- ? Finished Execution ---
+>> Finished Execution   
 
---- ?? Starting Execution ---
+>> Starting Execution   
 Calculating: 5 + 5 = 10
---- ? Finished Execution ---
+>> Finished Execution   
 
---- ?? Starting Execution ---
+>> Starting Execution   
 hii
-is:None
-<class 'NoneType'>
---- ? Finished Execution ---
+>> Finished Execution   
 
 === Code Execution Successful ===
