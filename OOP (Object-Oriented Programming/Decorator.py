@@ -1,4 +1,4 @@
-# 1. DEFINE THE DECORATOR
+# 1. DEFINE THE DECORATOR:
 def my_logger(my_func_45):
     def my_task():
         print(">> Starting Execution   ")
